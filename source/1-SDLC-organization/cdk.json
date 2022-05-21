@@ -10,6 +10,6 @@
     "pipeline_deployable_regions": [
       "us-west-2"
     ], 
-    "domain_name": "coryjo-dev.com"
+    "domain_name": "cojo-dev.com"
   }
 }
